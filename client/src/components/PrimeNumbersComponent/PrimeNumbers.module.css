@@ -1,0 +1,34 @@
+.numCard {
+  border-color: transparent !important;
+  background-color: #FFED65 !important;
+  margin-bottom: 10px;
+}
+
+.numCard > p {
+  font-size: 50px;
+  text-align: center;
+}
+
+@media (min-width: 640px){
+
+}
+
+@media (min-width: 768px){
+
+  .numCard > p {
+    font-size: 50px;
+  }
+
+}
+
+@media (min-width: 1024px){
+
+  .numCard > p {
+    font-size: 60px;
+  }
+
+}
+
+@media (min-width: 1200px){
+
+}

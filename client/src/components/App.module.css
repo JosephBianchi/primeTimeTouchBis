@@ -1,0 +1,22 @@
+.App {
+  background-color: #B4ADEA !important;
+}
+
+.errorMessage {
+  color: #8C6605 !important;
+  font-size: 20px;
+}
+
+.successIcon {
+  font-size: 20em;
+  margin-left: 22.5%;
+}
+
+.warningIcon {
+  font-size: 20em;
+  margin-left: 25%;
+}
+
+.loading {
+  margin-left: 37.5%;
+}
